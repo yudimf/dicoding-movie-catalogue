@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movie Catalogue 2</string>
+
+    <string name="title_activity_main">Movie Catalogue</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_tv_show">Tv Shows</string>
+    <string name="desc_image">Image for Movie or Tv Show</string>
+    <string name="movie_name">Title :</string>
+    <string name="date_release">Date Release :</string>
+    <string name="overview">Overview :</string>
+    <string name="change_language">Change Language</string>
+    <string name="favorite">Favorite</string>
+    <string name="search_hint">Input Movie Name</string>
+    <string name="appwidget_text">Favorite Movie and TV Show (Movie Catalogue)</string>
+    <string name="add_widget">Add widget</string>
+    <string name="reminder">Movie Catalogue is Missing You !</string>
+
+</resources>

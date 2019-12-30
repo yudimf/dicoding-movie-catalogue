@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/add_to_favorite"
+        android:title="Tambahkan ke favorit"
+        android:icon="@drawable/ic_star_border_white_24dp"
+        app:showAsAction="always"
+        android:visible="true"/>
+
+    <item
+        android:id="@+id/remove_from_favorite"
+        android:title="Hapus dari favorit"
+        android:icon="@drawable/ic_star_white_24dp"
+        app:showAsAction="always"
+        android:visible="false"/>
+
+</menu>

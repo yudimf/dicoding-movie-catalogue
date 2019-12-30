@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movie Catalogue 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_main">Movie Catalogue</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tv_show">Siaran TV</string>
+    <string name="desc_image">Gambar untuk Siaran TV dan Film</string>
+    <string name="movie_name">Judul :</string>
+    <string name="date_release">Tanggal Rilis :</string>
+    <string name="overview">Deskripsi :</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="favorite">Favorite</string>
+    <string name="search_hint">Masukkan Nama Film</string>
+    <string name="appwidget_text">Film dan Siaran TV Favorit (Movie Catalogue)</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>
